@@ -1,0 +1,11 @@
+.progress-bar-wrapper {
+    width: 500px;
+    height: 50px;
+    background-color: #D5C67A;
+    margin: 20px 0;
+}
+.progress-bar {
+    height: 100%;
+    width: 0%;
+    background-color: #06A77D;
+}
